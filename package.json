@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dev-traveler/learn-jest/issues"
   },
-  "homepage": "https://github.com/dev-traveler/learn-jest#readme"
+  "homepage": "https://github.com/dev-traveler/learn-jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
